@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AvaloniaProject">
+    <option name="projectPerEditor">
+      <map>
+        <entry key="Gate_Access_Management/Views/MainWindow.axaml" value="Gate_Access_Management/Gate_Access_Management.csproj" />
+      </map>
+    </option>
+  </component>
+</project>
